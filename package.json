@@ -1,0 +1,26 @@
+{
+  "name": "proyectofinalpokedex",
+  "version": "1.0.0",
+  "description": "PokedexJSON2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/F5Am4/proyecto-Biblioteca-Pokemon-GBA.git"
+  },
+  "keywords": [
+    "PokedexGBA",
+    "GBApoke"
+  ],
+  "author": "Nestor Alejandro Chaparro Murillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/F5Am4/proyecto-Biblioteca-Pokemon-GBA/issues"
+  },
+  "homepage": "https://github.com/F5Am4/proyecto-Biblioteca-Pokemon-GBA#readme",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
